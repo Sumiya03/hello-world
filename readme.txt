@@ -1,4 +1,4 @@
 Hello!
-Goodby!
+Goodbye!
 
 Hey!
